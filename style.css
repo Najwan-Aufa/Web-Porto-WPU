@@ -1,0 +1,41 @@
+body {
+    font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+  min-height: 3000px;
+  background-color: #00ced1;
+}
+
+svg {
+    margin-bottom: -1px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  color: white;
+  background-color: #080808;
+}
+
+#About {
+    background-color: #00ced1;
+}
+
+#project {
+  background-color: #080808;
+}
+
+#project h2 {
+  color: white;
+}
+
+#contact {
+    background-color: #00ced1;
+}
+
+footer {
+    background-color: #080808;
+}
+
+section {
+    padding-top: 5rem;
+}
